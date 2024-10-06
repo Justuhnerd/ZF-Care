@@ -10,8 +10,8 @@
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom, #42af2d, #087908); /* Light and light-medium green gradient */
     color: #333; /* Dark green for text */
+    background-color: #fddcd0;
   }
   
   /* Header styles */
@@ -295,7 +295,6 @@
 
 
 
-  !!!!!!!!!!!!!
   /* Reset default margin and padding */
 * {
     margin: 0;
